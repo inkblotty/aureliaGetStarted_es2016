@@ -1,0 +1,5 @@
+// gitignore
+
+/jspm_packages/*
+/_MACOSX/*
+
